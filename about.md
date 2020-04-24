@@ -4,5 +4,4 @@ title: Sobre
 permalink: /about/
 ---
 
-A blog about Cryptocurrency, blockchain, smart contracts, economics and law.
-
+Pitaia Trade maintenance page. A [Pitaia Bank](http://pitaiabank.com/) company.
